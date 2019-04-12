@@ -1,0 +1,13 @@
+# LatihanCRUD_Prishe
+![alt text](https://github.com/PrisheAA/LatihanCRUD_Prishe/blob/master/CRUD/1.jpeg)
+![alt text](https://github.com/PrisheAA/LatihanCRUD_Prishe/blob/master/CRUD/2.jpeg)
+![alt text](https://github.com/PrisheAA/LatihanCRUD_Prishe/blob/master/CRUD/3.jpeg)
+![alt text](https://github.com/PrisheAA/LatihanCRUD_Prishe/blob/master/CRUD/4.jpeg)
+![alt text](https://github.com/PrisheAA/LatihanCRUD_Prishe/blob/master/CRUD/5.jpeg)
+![alt text](https://github.com/PrisheAA/LatihanCRUD_Prishe/blob/master/CRUD/6.jpeg)
+![alt text](https://github.com/PrisheAA/LatihanCRUD_Prishe/blob/master/CRUD/7.jpeg)
+![alt text](https://github.com/PrisheAA/LatihanCRUD_Prishe/blob/master/CRUD/8.jpeg)
+![alt text](https://github.com/PrisheAA/LatihanCRUD_Prishe/blob/master/CRUD/9.jpeg)
+![alt text](https://github.com/PrisheAA/LatihanCRUD_Prishe/blob/master/CRUD/10.jpeg)
+![alt text](https://github.com/PrisheAA/LatihanCRUD_Prishe/blob/master/CRUD/11.jpeg)
+![alt text](https://github.com/PrisheAA/LatihanCRUD_Prishe/blob/master/CRUD/12.jpeg)
